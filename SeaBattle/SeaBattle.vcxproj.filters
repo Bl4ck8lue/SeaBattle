@@ -23,5 +23,8 @@
     <ClInclude Include="functions_player.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="functions_virt.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
